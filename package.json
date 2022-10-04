@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^31.0.2",
+    "expo": "^46.0.14",
     "galio-framework": "^0.5.3",
     "html-react-parser": "^0.9.1",
     "react": "16.5.0",
